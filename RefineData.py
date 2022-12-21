@@ -4,28 +4,24 @@ class RefineData:
         self.error_lst = errorlst
         self.num = num
 
-
     def Bill_Ref(self):
         pass
+
     def BP(self):
         pass
 
     def Extract_City(self,data_lst):
         pass
 
-        
-#3 Finally Getting City form the data
     def get_City(self):
         pass
-#4 Finally Getting Province form the data [E]-4        
-    def get_Prov(self): #4
+        
+    def get_Prov(self): 
         pass
 
-#5 Finally Getting Street Name form the data        
     def get_Str_Name(self):
         pass
 
-#2 Finally Getting Postal Code form the data        
     def get_PC(self):
         pass
 
@@ -38,7 +34,6 @@ class RefineData:
     def get_Unit_no(self):
         pass
 
-    #1 Finally Getting Street number form the data
     def get_Street_No(self):
         pass
 
